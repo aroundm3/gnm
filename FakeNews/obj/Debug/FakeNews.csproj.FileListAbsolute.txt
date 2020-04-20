@@ -1,0 +1,6 @@
+C:\Users\zGou17\Desktop\GameNews\GameNews\FakeNews\bin\FakeNews.dll.config
+C:\Users\zGou17\Desktop\GameNews\GameNews\FakeNews\bin\FakeNews.dll
+C:\Users\zGou17\Desktop\GameNews\GameNews\FakeNews\bin\FakeNews.pdb
+C:\Users\zGou17\Desktop\GameNews\GameNews\FakeNews\obj\Debug\FakeNews.csprojAssemblyReference.cache
+C:\Users\zGou17\Desktop\GameNews\GameNews\FakeNews\obj\Debug\FakeNews.dll
+C:\Users\zGou17\Desktop\GameNews\GameNews\FakeNews\obj\Debug\FakeNews.pdb

@@ -1,0 +1,17 @@
+C:\Users\zGou17\Desktop\GameNews\GameNews\GameNews\obj\Debug\GameNews.Login.resources
+C:\Users\zGou17\Desktop\GameNews\GameNews\GameNews\obj\Debug\GameNews.Properties.Resources.resources
+C:\Users\zGou17\Desktop\GameNews\GameNews\GameNews\obj\Debug\GameNews.csproj.GenerateResource.cache
+C:\Users\zGou17\Desktop\GameNews\GameNews\GameNews\bin\Debug\GameNews.exe.config
+C:\Users\zGou17\Desktop\GameNews\GameNews\GameNews\bin\Debug\GameNews.exe
+C:\Users\zGou17\Desktop\GameNews\GameNews\GameNews\bin\Debug\GameNews.pdb
+C:\Users\zGou17\Desktop\GameNews\GameNews\GameNews\obj\Debug\GameNews.exe
+C:\Users\zGou17\Desktop\GameNews\GameNews\GameNews\obj\Debug\GameNews.pdb
+C:\Users\zGou17\Desktop\GameNews\GameNews\GameNews\obj\Debug\GameNews.Admin.resources
+C:\Users\zGou17\Desktop\GameNews\GameNews\GameNews\obj\Debug\GameNews.Profile.resources
+C:\Users\zGou17\Desktop\GameNews\GameNews\GameNews\obj\Debug\GameNews.ProfileOfanother.resources
+C:\Users\zGou17\Desktop\GameNews\GameNews\GameNews\obj\Debug\GameNews.AddPlatform.resources
+C:\Users\zGou17\Desktop\GameNews\GameNews\GameNews\obj\Debug\GameNews.AddCategory.resources
+C:\Users\zGou17\Desktop\GameNews\GameNews\GameNews\obj\Debug\GameNews.ContentPost.resources
+C:\Users\zGou17\Desktop\GameNews\GameNews\GameNews\obj\Debug\GameNews.PostsOfWriter.resources
+C:\Users\zGou17\Desktop\GameNews\GameNews\GameNews\obj\Debug\GameNews.Writer.resources
+C:\Users\zGou17\Desktop\GameNews\GameNews\GameNews\obj\Debug\GameNews.EditPost.resources
